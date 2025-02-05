@@ -8,9 +8,14 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
 ## <span id="head1"> *Contents* </span>
 
 - Awesome Acceleration GenAI
+  - [Cache Method](#Cache-Method)
+  - [Distillation](#Distillation)
   - [Image Generation](#image-generation)
   - [Video Generation](#video-generation)
-  - [Cache Method](#Cache Method)
-  - [Distillation](#Distillation)
 
-### Image Generation:
+### Cache-Method:
+#### 2024
+- **[1] Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model**, arxiv 2024.
+  
+  [[Paper](https://arxiv.org/pdf/2411.19108)]
+  [[Code](https://github.com/dbolya/tomesd)]
