@@ -5,5 +5,12 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
 ![papercount](https://img.shields.io/badge/paper_count-0-pink)
 [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/Naereen/StrapDown.js/graphs/commit-activity)
 
+## <span id="head1"> *Contents* </span>
 
+- Awesome Acceleration GenAI
+  - [Image Generation](#image-generation)
+  - [Video Generation](#video-generation)
+  - [Cache Method](#Cache Method)
+  - [Distillation](#Distillation)
 
+### Image Generation:
