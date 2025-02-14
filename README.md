@@ -9,6 +9,7 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
 
 - Awesome Acceleration GenAI
   - [Cache Method](#Cache-Method)
+  - [Token Merging](#Token-Merging)
   - [Distillation](#Distillation)
   - [Image Generation](#image-generation)
   - [Video Generation](#video-generation)
@@ -49,9 +50,19 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   [[Paper](https://arxiv.org/abs/2404.02747)]
   [[Code](https://github.com/HaozheLiu-ST/T-GATE)]
 
-- **[4] SmoothCache: A Universal Inference Acceleration Technique for Diffusion Transformers**, arxiv 2024.
+- **[7] Unveiling Redundancy in Diffusion Transformers (DiTs): A Systematic Study**, arxiv 2024.
   
-  [[Paper](https://arxiv.org/pdf/2411.10510)]
-  [[Code](https://github.com/Roblox/SmoothCache)]
+  [[Paper](https://arxiv.org/abs/2411.13588)]
+  [[Code](https://github.com/xdit-project/DiTCacheAnalysis)]
 
 
+
+
+
+
+### Token-Merging
+
+- **[1] AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration**, arxiv 2024.
+  
+  [[Paper](https://arxiv.org/abs/2412.11706)]
+ 
