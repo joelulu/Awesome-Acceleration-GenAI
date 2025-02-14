@@ -57,7 +57,7 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   [[Code](https://github.com/xdit-project/DiTCacheAnalysis)]
   
 
-- **[8] Accelerating Diffusion Transformer via Error-Optimized Cache**, arxiv 2024.
+- **[8] Accelerating Diffusion Transformer via Error-Optimized Cache**, arxiv 2025.
 
   [[Paper](https://arxiv.org/pdf/2501.19243)]
   
@@ -73,6 +73,12 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   
   [[Paper](https://arxiv.org/abs/2412.18911)]
   [[Code](https://github.com/Shenyi-Z/DuCa)]
+
+
+- **[11] UniCP: A Unified Caching and Pruning Framework for Efficient Video Generation**, arxiv 2025.
+  
+  [[Paper](https://arxiv.org/pdf/2502.04393)]
+
 
 
 
