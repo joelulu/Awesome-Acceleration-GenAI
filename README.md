@@ -26,11 +26,28 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   
   [[Paper](https://arxiv.org/pdf/2411.02397)]
   [[Code](https://adacache-dit.github.io/)]
+  
 
-- **[3] Real-time video generation with pyramid attention broadcast**, ICLR 2025.
+- **[3] PAB: Real-time video generation with pyramid attention broadcast**, ICLR 2025.
   
   [[Paper](https://arxiv.org/pdf/2408.12588)]
   [[Code](https://github.com/NUS-HPC-AI-Lab/VideoSys)]
+  
+
+- **[4] SmoothCache: A Universal Inference Acceleration Technique for Diffusion Transformers**, arxiv 2024.
+  
+  [[Paper](https://arxiv.org/pdf/2411.10510)]
+  [[Code](https://github.com/Roblox/SmoothCache)]
+
+- **[5] Δ-DiT: A Training-Free Acceleration Method Tailored for Diffusion Transformers**, arxiv 2024.
+  
+  [[Paper](https://arxiv.org/pdf/2406.01125)]
+
+
+- **[6] T-Gate: Faster Diffusion via Temporal Attention Decomposition**, arxiv 2024.
+  
+  [[Paper](https://arxiv.org/abs/2404.02747)]
+  [[Code](https://github.com/HaozheLiu-ST/T-GATE)]
 
 - **[4] SmoothCache: A Universal Inference Acceleration Technique for Diffusion Transformers**, arxiv 2024.
   
