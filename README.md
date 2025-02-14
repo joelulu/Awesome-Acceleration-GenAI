@@ -49,16 +49,35 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   
   [[Paper](https://arxiv.org/abs/2404.02747)]
   [[Code](https://github.com/HaozheLiu-ST/T-GATE)]
+  
 
 - **[7] Unveiling Redundancy in Diffusion Transformers (DiTs): A Systematic Study**, arxiv 2024.
   
   [[Paper](https://arxiv.org/abs/2411.13588)]
   [[Code](https://github.com/xdit-project/DiTCacheAnalysis)]
+  
 
 - **[8] Accelerating Diffusion Transformer via Error-Optimized Cache**, arxiv 2024.
 
   [[Paper](https://arxiv.org/pdf/2501.19243)]
+  
 
+- **[9] Unveiling Redundancy in Diffusion Transformers (DiTs): A Systematic Study**, arxiv 2024.
+  
+  [[Paper](https://arxiv.org/abs/2411.13588)]
+  [[Code](https://github.com/xdit-project/DiTCacheAnalysis)]
+  
+
+- **[10] ToCa: Accelerating Diffusion Transformers with Token-wise Feature Caching**, ICLR 2025.
+  
+  [[Paper](https://arxiv.org/abs/2410.05317)]
+  [[Code](https://github.com/Shenyi-Z/ToCa)]
+  
+
+- **[11] DuCa: Accelerating Diffusion Transformers with Dual Feature Caching**, arxiv 2024.
+  
+  [[Paper](https://arxiv.org/abs/2412.18911)]
+  [[Code](https://github.com/Shenyi-Z/DuCa)]
 
 
 
