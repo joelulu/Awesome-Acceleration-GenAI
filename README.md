@@ -80,7 +80,10 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   [[Paper](https://arxiv.org/pdf/2502.04393)]
 
 
-
+- **[12] FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality**, arxiv 2024.
+  
+  [[Paper](https://arxiv.org/abs/2410.19355)]
+  [[Code](https://github.com/Vchitect/FasterCache)]
 
 ### Token-Merging
 
