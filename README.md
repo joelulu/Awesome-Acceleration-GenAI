@@ -2,7 +2,7 @@
 A curated list of awesome papers on acceleration techniques for Generative AI.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![papercount](https://img.shields.io/badge/paper_count-0-pink)
+![papercount](https://img.shields.io/badge/paper_count-11-pink)
 [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## <span id="head1"> *Contents* </span>
@@ -62,19 +62,14 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   [[Paper](https://arxiv.org/pdf/2501.19243)]
   
 
-- **[9] Unveiling Redundancy in Diffusion Transformers (DiTs): A Systematic Study**, arxiv 2024.
-  
-  [[Paper](https://arxiv.org/abs/2411.13588)]
-  [[Code](https://github.com/xdit-project/DiTCacheAnalysis)]
-  
 
-- **[10] ToCa: Accelerating Diffusion Transformers with Token-wise Feature Caching**, ICLR 2025.
+- **[9] ToCa: Accelerating Diffusion Transformers with Token-wise Feature Caching**, ICLR 2025.
   
   [[Paper](https://arxiv.org/abs/2410.05317)]
   [[Code](https://github.com/Shenyi-Z/ToCa)]
   
 
-- **[11] DuCa: Accelerating Diffusion Transformers with Dual Feature Caching**, arxiv 2024.
+- **[10] DuCa: Accelerating Diffusion Transformers with Dual Feature Caching**, arxiv 2024.
   
   [[Paper](https://arxiv.org/abs/2412.18911)]
   [[Code](https://github.com/Shenyi-Z/DuCa)]
