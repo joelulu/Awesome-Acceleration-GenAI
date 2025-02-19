@@ -20,7 +20,7 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
 - **[1] Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model**, arxiv 2024.
   
   [[Paper](https://arxiv.org/pdf/2411.19108)]
-  [[Code](https://github.com/dbolya/tomesd)]
+  [[Code](https://liewfeng.github.io/TeaCache/)]
 
 
 - **[2] Adaptive Caching for Faster Video Generation with Diffusion Transformers**, arxiv 2024.
