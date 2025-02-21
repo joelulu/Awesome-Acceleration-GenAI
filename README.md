@@ -85,7 +85,7 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   [[Paper](https://arxiv.org/abs/2502.10389)]
   [[Code](https://microsoft.github.io/RAS/)]
 
-- **[12] FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality**, arxiv 2024.
+- **[12] Region-Adaptive Sampling for Diffusion Transformers**, arxiv 2024.
   
   [[Paper](https://arxiv.org/abs/2410.19355)]
   [[Code](https://github.com/Vchitect/FasterCache)]
