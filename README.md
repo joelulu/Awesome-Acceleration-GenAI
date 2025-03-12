@@ -45,7 +45,7 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   [[Paper](https://arxiv.org/pdf/2406.01125)]
 
 
-- **[6] T-Gate: Faster Diffusion via Temporal Attention Decomposition**, arxiv 2024.
+- **[6] T-Gate: Faster Diffusion via Temporal Attention Decomposition**, TMLR 2025.
   
   [[Paper](https://arxiv.org/abs/2404.02747)]
   [[Code](https://github.com/HaozheLiu-ST/T-GATE)]
