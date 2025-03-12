@@ -17,7 +17,7 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
 ### Cache-Method:
 
 
-- **[1] Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model**, arxiv 2024.
+- **[1] Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model**, CVPR 2025.
   
   [[Paper](https://arxiv.org/pdf/2411.19108)]
   [[Code](https://liewfeng.github.io/TeaCache/)]
