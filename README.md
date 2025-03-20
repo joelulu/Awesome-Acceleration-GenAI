@@ -92,6 +92,11 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   [[Paper](https://arxiv.org/pdf/2502.10389)]
   [[Code](https://microsoft.github.io/RAS/)]
 
+- **[14] CacheQuant: Comprehensively Accelerated Diffusion Models**, arxiv 2025.
+  
+  [[Paper](https://arxiv.org/pdf/2503.01323v1)]
+  [[Code](https://github.com/BienLuky/CacheQuant)]
+
 ### Token-Merging
 
 - **[1] AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration**, arxiv 2024.
