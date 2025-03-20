@@ -10,9 +10,11 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
 - Awesome Acceleration GenAI
   - [Cache Method](#Cache-Method)
   - [Token Merging](#Token-Merging)
+  - [Short Path](#Short-Path)
   - [Distillation](#Distillation)
   - [Image Generation](#image-generation)
   - [Video Generation](#video-generation)
+ 
 
 ### Cache-Method:
 
@@ -95,4 +97,8 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
 - **[1] AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration**, arxiv 2024.
   
   [[Paper](https://arxiv.org/abs/2412.11706)]
- 
+
+### Short-Path
+
+ - **[1] Optimizing for the Shortest Path in Denoising Diffusion Model**, arxiv 2024.
+  [[Paper](https://arxiv.org/pdf/2503.03265)]
