@@ -105,7 +105,7 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
 
 ### Short-Path
 
- - **[1] Optimizing for the Shortest Path in Denoising Diffusion Model**, CVPR 2025.
+- **[1] Optimizing for the Shortest Path in Denoising Diffusion Model**, CVPR 2025.
    
   [[Paper](https://arxiv.org/pdf/2503.03265)]
   [[Code](https://github.com/UnicomAI/ShortDF)]
