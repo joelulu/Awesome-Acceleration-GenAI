@@ -97,7 +97,7 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   [[Paper](https://arxiv.org/pdf/2503.01323v1)]
   [[Code](https://github.com/BienLuky/CacheQuant)]
 
-- **[15] Cache Me if You Can: Accelerating Diffusion Models through Block Caching**, CVPR 2025.
+- **[15] Cache Me if You Can: Accelerating Diffusion Models through Block Caching**, CVPR 2024.
   
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wimbauer_Cache_Me_if_You_Can_Accelerating_Diffusion_Models_through_Block_CVPR_2024_paper.pdf)]
   [[Code](https://fwmb.github.io/blockcaching/#)]  
