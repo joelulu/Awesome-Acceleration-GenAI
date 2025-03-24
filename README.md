@@ -10,11 +10,11 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
 - Awesome Acceleration GenAI
   - [Cache Method](#Cache-Method)
   - [Token Merging](#Token-Merging)
-  - [Short Path](#Short-Path)
   - [Distillation](#Distillation)
   - [Image Generation](#image-generation)
   - [Video Generation](#video-generation)
- 
+  - [Others](#Others) 
+
 
 ### Cache-Method:
 
@@ -115,9 +115,30 @@ Accelerate Diffusion Transformers**, arxiv 2025.
   
   [[Paper](https://arxiv.org/abs/2412.11706)]
 
-### Short-Path
+
+### Others 
 
 - **[1] Optimizing for the Shortest Path in Denoising Diffusion Model**, CVPR 2025.
+   
+  [[Paper](https://arxiv.org/pdf/2503.03265)]
+  [[Code](https://github.com/UnicomAI/ShortDF)]
+  
+- **[2] Optimizing for the Shortest Path in Denoising Diffusion Model**, CVPR 2025.
+   
+  [[Paper](https://arxiv.org/pdf/2503.03265)]
+  [[Code](https://github.com/UnicomAI/ShortDF)]
+
+- **[3] Optimizing for the Shortest Path in Denoising Diffusion Model**, CVPR 2025.
+   
+  [[Paper](https://arxiv.org/pdf/2503.03265)]
+  [[Code](https://github.com/UnicomAI/ShortDF)]
+
+- **[4] Optimizing for the Shortest Path in Denoising Diffusion Model**, CVPR 2025.
+   
+  [[Paper](https://arxiv.org/pdf/2503.03265)]
+  [[Code](https://github.com/UnicomAI/ShortDF)]
+
+- **[5] Optimizing for the Shortest Path in Denoising Diffusion Model**, CVPR 2025.
    
   [[Paper](https://arxiv.org/pdf/2503.03265)]
   [[Code](https://github.com/UnicomAI/ShortDF)]
