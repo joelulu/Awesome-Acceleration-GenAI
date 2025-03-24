@@ -123,15 +123,14 @@ Accelerate Diffusion Transformers**, arxiv 2025.
   [[Paper](https://arxiv.org/pdf/2503.03265)]
   [[Code](https://github.com/UnicomAI/ShortDF)]
   
-- **[2] Optimizing for the Shortest Path in Denoising Diffusion Model**, CVPR 2025.
+- **[2] Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps**, CVPR 2025.
    
-  [[Paper](https://arxiv.org/pdf/2503.03265)]
-  [[Code](https://github.com/UnicomAI/ShortDF)]
+  [[Paper](https://arxiv.org/pdf/2501.09732)]
 
-- **[3] Optimizing for the Shortest Path in Denoising Diffusion Model**, CVPR 2025.
+- **[3] Impossible Videosl**, CVPR 2025.
    
-  [[Paper](https://arxiv.org/pdf/2503.03265)]
-  [[Code](https://github.com/UnicomAI/ShortDF)]
+  [[Paper](https://arxiv.org/pdf/2503.14378))]
+  [[Code](https://github.com/showlab/Impossible-Videos?tab=readme-ov-file)]
 
 - **[4] Optimizing for the Shortest Path in Denoising Diffusion Model**, CVPR 2025.
    
