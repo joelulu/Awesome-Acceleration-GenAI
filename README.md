@@ -127,20 +127,21 @@ Accelerate Diffusion Transformers**, arxiv 2025.
    
   [[Paper](https://arxiv.org/pdf/2501.09732)]
 
-- **[3] Impossible Videosl**, CVPR 2025.
+- **[3] Impossible Videosl**, arxiv 2025.
    
   [[Paper](https://arxiv.org/pdf/2503.14378))]
   [[Code](https://github.com/showlab/Impossible-Videos?tab=readme-ov-file)]
 
-- **[4] Optimizing for the Shortest Path in Denoising Diffusion Model**, CVPR 2025.
+- **[4] DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any
+Architecture**, CVPR 2025.
    
-  [[Paper](https://arxiv.org/pdf/2503.03265)]
-  [[Code](https://github.com/UnicomAI/ShortDF)]
+  [[Paper](https://arxiv.org/pdf/2409.03550)]
+  [[Code](https://github.com/qianlong0502/DKDM)]
 
-- **[5] Optimizing for the Shortest Path in Denoising Diffusion Model**, CVPR 2025.
+- **[5] Distilling Diversity and Control in Diffusion Models**, arxiv 2025.
    
-  [[Paper](https://arxiv.org/pdf/2503.03265)]
-  [[Code](https://github.com/UnicomAI/ShortDF)]
+  [[Paper](https://arxiv.org/pdf/2503.10637)]
+  [[Code](https://distillation.baulab.info/)]
 
 It is still being updated...
 
