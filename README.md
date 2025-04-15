@@ -13,6 +13,7 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   - [Distillation](#Distillation)
   - [Image Generation](#image-generation)
   - [Video Generation](#video-generation)
+  - [optimal timestep](#optimal-timestep) 
   - [Others](#Others) 
 
 
@@ -142,6 +143,12 @@ Architecture**, CVPR 2025.
    
   [[Paper](https://arxiv.org/pdf/2503.10637)]
   [[Code](https://distillation.baulab.info/)]
+
+### optimal-timestep
+
+
+
+
 
 It is still being updated...
 
