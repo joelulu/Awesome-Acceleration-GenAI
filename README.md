@@ -151,7 +151,10 @@ Architecture**, CVPR 2025.
   [[Paper](https://arxiv.org/pdf/2312.16414)]
   [[Code](https://github.com/nguyenngocbaocmt02/BOSS)]
 
-
+- **[3] Optimal Stepsize for Diffusion Sampling**, arxiv 2025.
+   
+  [[Paper](https://arxiv.org/pdf/2503.21774v1)]
+  [[Code](https://github.com/bebebe666/OptimalSteps)]
 
 It is still being updated...
 
