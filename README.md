@@ -146,7 +146,15 @@ Architecture**, CVPR 2025.
 
 ### optimal-timestep
 
+- **[1] Optimizing for the Shortest Path in Denoising Diffusion Model**, CVPR 2025.
+   
+  [[Paper](https://arxiv.org/pdf/2503.03265)]
+  [[Code](https://github.com/UnicomAI/ShortDF)]
 
+- **[2] Bellman Optimal StepSize Straightening Of Flow-Matching Models**, ICLR 2024.
+   
+  [[Paper](https://arxiv.org/pdf/2312.16414)]
+  [[Code](https://github.com/nguyenngocbaocmt02/BOSS)]
 
 
 
