@@ -85,8 +85,8 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
 
 - **[12] FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality**, arxiv 2024.
   
-  [[Paper](https://arxiv.org/abs/2502.10389)]
-  [[Code](https://microsoft.github.io/RAS/)]
+  [[Paper](https://arxiv.org/pdf/2410.19355)]
+  [[Code](https://vchitect.github.io/FasterCache/)]
 
 - **[13] Region-Adaptive Sampling for Diffusion Transformers**, arxiv 2025.
   
@@ -103,10 +103,15 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wimbauer_Cache_Me_if_You_Can_Accelerating_Diffusion_Models_through_Block_CVPR_2024_paper.pdf)]
   [[Code](https://fwmb.github.io/blockcaching/#)]
 
-- **[16] BlockDance: Reuse Structurally Similar Spatio-Temporal Features to
-Accelerate Diffusion Transformers**, arxiv 2025.
+- **[16] BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate Diffusion Transformers**, arxiv 2025.
   
   [[Paper](https://arxiv.org/pdf/2503.15927)]
+
+- **[17] Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching**, NeurIPS 2024
+  
+  [[Paper](https://arxiv.org/pdf/2406.01733)]
+  [[Code](https://github.com/horseee/learning-to-cache)]
+
 
   
 
