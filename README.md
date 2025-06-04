@@ -112,6 +112,25 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   [[Paper](https://arxiv.org/pdf/2406.01733)]
   [[Code](https://github.com/horseee/learning-to-cache)]
 
+- **[18] From Reusing to Forecasting: Accelerating Diffusion Models with TaylorSeers**, arxiv 2025.
+  
+  [[Paper](https://arxiv.org/pdf/2503.06923)]
+  [[Code](https://github.com/Shenyi-Z/TaylorSeer)]
+
+
+- **[19] Model Reveals What to Cache: Profiling-Based Feature Reuse for Video Diffusion Models**, arxiv 2025.
+  
+  [[Paper](https://arxiv.org/pdf/2504.03140)]
+  [[Code](https://github.com/GeekGuru123/ProfilingDiT/tree/main)]
+
+- **[20] SRDiffusion: Accelerate Video Diffusion Inference via Sketching-Rendering Cooperation**, arxiv 2025.
+  
+  [[Paper](https://arxiv.org/pdf/2505.19151)]
+
+- **[21] AB-Cache: Training-Free Acceleration of Diffusion Models via Adams-Bashforth Cached Feature Reuse**, arxiv 2025.
+  
+  [[Paper](https://arxiv.org/pdf/2504.10540)]
+
 
   
 
