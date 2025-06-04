@@ -9,7 +9,7 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
 
 - Awesome Acceleration GenAI
   - [Cache Method](#Cache-Method)
-  - [Token Merging/Sparse](#Token-Merging)
+  - [Token Merging/Sparse](#Token-Merging/Sparse)
   - [Distillation](#Distillation)
   - [Image Generation](#image-generation)
   - [Video Generation](#video-generation)
@@ -134,7 +134,7 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
 
   
 
-### Token-Merging
+### Token-Merging/Sparse
 
 - **[1] AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration**, arxiv 2024.
   
@@ -152,6 +152,11 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
 - **[4] Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity**, ICML 2025.
   
   [[Paper](https://arxiv.org/pdf/2502.01776)]
+  [[Code](https://github.com/svg-project/Sparse-VideoGen)]
+
+- **[5] Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation**, ICML 2025.
+  
+  [[Paper](https://arxiv.org/pdf/2505.18875)]
   [[Code](https://github.com/svg-project/Sparse-VideoGen)]
 
 
