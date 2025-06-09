@@ -132,8 +132,6 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   [[Paper](https://arxiv.org/pdf/2504.10540)]
 
 
-  
-
 ### Token-Merging/Sparse
 
 - **[1] AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration**, arxiv 2024.
@@ -154,13 +152,29 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   [[Paper](https://arxiv.org/pdf/2502.01776)]
   [[Code](https://github.com/svg-project/Sparse-VideoGen)]
 
-- **[5] Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation**, ICML 2025.
+- **[5] Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation**, arxiv 2025.
   
   [[Paper](https://arxiv.org/pdf/2505.18875)]
   [[Code](https://github.com/svg-project/Sparse-VideoGen)]
 
 
-  
+### optimal-timestep
+
+- **[1] Optimizing for the Shortest Path in Denoising Diffusion Model**, CVPR 2025.
+   
+  [[Paper](https://arxiv.org/pdf/2503.03265)]
+  [[Code](https://github.com/UnicomAI/ShortDF)]
+
+- **[2] Bellman Optimal StepSize Straightening Of Flow-Matching Models**, ICLR 2024.
+   
+  [[Paper](https://arxiv.org/pdf/2312.16414)]
+  [[Code](https://github.com/nguyenngocbaocmt02/BOSS)]
+
+- **[3] Optimal Stepsize for Diffusion Sampling**, arxiv 2025.
+   
+  [[Paper](https://arxiv.org/pdf/2503.21774v1)]
+  [[Code](https://github.com/bebebe666/OptimalSteps)]
+
 
 
 ### Others 
@@ -184,24 +198,7 @@ Architecture**, CVPR 2025.
    
   [[Paper](https://arxiv.org/pdf/2503.10637)]
   [[Code](https://distillation.baulab.info/)]
-
-### optimal-timestep
-
-- **[1] Optimizing for the Shortest Path in Denoising Diffusion Model**, CVPR 2025.
-   
-  [[Paper](https://arxiv.org/pdf/2503.03265)]
-  [[Code](https://github.com/UnicomAI/ShortDF)]
-
-- **[2] Bellman Optimal StepSize Straightening Of Flow-Matching Models**, ICLR 2024.
-   
-  [[Paper](https://arxiv.org/pdf/2312.16414)]
-  [[Code](https://github.com/nguyenngocbaocmt02/BOSS)]
-
-- **[3] Optimal Stepsize for Diffusion Sampling**, arxiv 2025.
-   
-  [[Paper](https://arxiv.org/pdf/2503.21774v1)]
-  [[Code](https://github.com/bebebe666/OptimalSteps)]
-
+  
 It is still being updated...
 
 
