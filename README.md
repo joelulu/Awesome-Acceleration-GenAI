@@ -132,7 +132,7 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   [[Paper](https://arxiv.org/pdf/2504.10540)]
 
 
-- **[22] EEdit : Rethinking the Spatial and Temporal Redundancy for Efficient Image Editing**, arxiv 2025.
+- **[22] EEdit : Rethinking the Spatial and Temporal Redundancy for Efficient Image Editing**, ICCV 2025.
   
   [[Paper](https://arxiv.org/pdf/2503.10270)]
   [[Code](https://github.com/yuriYanZeXuan/EEdit?tab=readme-ov-file)]
