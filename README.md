@@ -143,6 +143,12 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   [[Paper]()]
   [[Code](https://github.com/vipshop/cache-dit?tab=readme-ov-file)]
 
+
+- **[24] Forecasting When to Forecast: Accelerating Diffusion Models with Confidence-Gated Taylor**, arxiv 2025.
+  
+  [[Paper](https://arxiv.org/pdf/2508.02240)]
+
+
 ### Token-Merging/Sparse
 
 - **[1] AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration**, arxiv 2024.
