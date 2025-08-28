@@ -149,6 +149,13 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   [[Paper](https://arxiv.org/pdf/2508.02240)]
 
 
+- **[25] HiCache: Training-free Acceleration of Diffusion Models via Hermite Polynomial-based Feature Caching**, arxiv 2025.
+  
+  [[Paper](https://arxiv.org/pdf/2508.16984)]
+
+
+
+
 ### Token-Merging/Sparse
 
 - **[1] AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration**, arxiv 2024.
