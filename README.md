@@ -153,6 +153,20 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   
   [[Paper](https://arxiv.org/pdf/2508.16984)]
 
+  
+- **[26] ERTACache: Error Rectification and Timesteps Adjustment for Efficient Diffusion**, arxiv 2025.
+  
+  [[Paper](https://arxiv.org/pdf/2508.21091)]
+
+- **[27] DiCache: Let Diffusion Model Determine Its Own Cache**, arxiv 2025.
+  
+  [[Paper](https://www.arxiv.org/abs/2508.17356)]
+
+
+- **[28] OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models**, arxiv 2025.
+  [[Paper](https://www.arxiv.org/pdf/2508.16212)]
+
+
 
 
 
