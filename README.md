@@ -167,6 +167,7 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   [[Paper](https://www.arxiv.org/pdf/2508.16212)]
 
 - **[29] EasyCache: Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**, arxiv 2025.
+
   [[Paper](https://arxiv.org/pdf/2507.02860)]
   [[Code](https://github.com/H-EmbodVis/EasyCache)]
   
