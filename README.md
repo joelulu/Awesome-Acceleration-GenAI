@@ -173,6 +173,7 @@ A curated list of awesome papers on acceleration techniques for Generative AI.
   
 
 - **[28] Forecast then Calibrate: Feature Caching as ODE for Efficient Diffusion Transformers**, arxiv 2025.
+  
   [[Paper](https://arxiv.org/pdf/2508.16211)]
 
 
