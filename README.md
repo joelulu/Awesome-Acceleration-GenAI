@@ -49,7 +49,8 @@ A curated list of awesome papers on **acceleration techniques** for Generative A
 - **DiCache: Let Diffusion Model Determine Its Own Cache**, *arXiv 2025* [[Paper](https://www.arxiv.org/abs/2508.17356)]  
 - **OmniCache: Global Trajectory-Oriented Cache Reuse**, *arXiv 2025* [[Paper](https://www.arxiv.org/pdf/2508.16212)]  
 - **EasyCache: Runtime-Adaptive Caching for Video Diffusion**, *arXiv 2025* [[Paper](https://arxiv.org/pdf/2507.02860)] [[Code](https://github.com/H-EmbodVis/EasyCache)]  
-- **Forecast then Calibrate: Caching as ODE for Diffusion Transformers**, *arXiv 2025* [[Paper](https://arxiv.org/pdf/2508.16211)]  
+- **Forecast then Calibrate: Caching as ODE for Diffusion Transformers**, *arXiv 2025* [[Paper](https://arxiv.org/pdf/2508.16211)]
+- **SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation**, *arXiv 2025* [[Paper](https://arxiv.org/pdf/2509.13848)]  
 
 ---
 
