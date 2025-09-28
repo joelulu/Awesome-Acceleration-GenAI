@@ -1,0 +1,84 @@
+# 🚀 Awesome Acceleration GenAI  
+A curated list of awesome papers on **acceleration techniques** for Generative AI.  
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![papercount](https://img.shields.io/badge/paper_count-40+-pink)
+![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)
+
+---
+
+## 📑 Contents
+- [Cache Methods](#-cache-methods)
+- [Token Merging & Sparse](#-token-merging--sparse)
+- [Optimal Timestep](#-optimal-timestep)
+- [Distillation](#-distillation)
+- [Image Generation](#-image-generation)
+- [Video Generation](#-video-generation)
+- [Others](#-others)
+
+---
+
+## ⚡ Cache Methods
+Techniques leveraging **feature caching / reusing** in diffusion and transformer-based models.
+
+| # | Paper | Venue/Year | Links |
+|---|-------|------------|-------|
+| 1 | Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model | CVPR 2025 | [📄 Paper](https://arxiv.org/pdf/2411.19108) · [💻 Code](https://liewfeng.github.io/TeaCache/) |
+| 2 | Adaptive Caching for Faster Video Generation with Diffusion Transformers | arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2411.02397) · [💻 Code](https://adacache-dit.github.io/) |
+| 3 | PAB: Real-time video generation with pyramid attention broadcast | ICLR 2025 | [📄 Paper](https://arxiv.org/pdf/2408.12588) · [💻 Code](https://github.com/NUS-HPC-AI-Lab/VideoSys) |
+| 4 | SmoothCache: A Universal Inference Acceleration Technique | arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2411.10510) · [💻 Code](https://github.com/Roblox/SmoothCache) |
+| 5 | Δ-DiT: Training-Free Acceleration for Diffusion Transformers | arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2406.01125) |
+| … | *(and many more up to 29+ recent works)* | — | — |
+
+---
+
+## 🔀 Token Merging & Sparse
+Methods that **reduce redundancy** by merging tokens or applying sparse attention.  
+
+- **AsymRnR**: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration, *arXiv 2024* [[📄 Paper](https://arxiv.org/abs/2412.11706)]  
+- **Dynamic Token Carving (Jenga)**: Training-Free Efficient Video Generation, *arXiv 2025* [[📄 Paper](https://arxiv.org/pdf/2505.16864)] [[💻 Code](https://github.com/dvlab-research/Jenga)]  
+- **VORTA**: Efficient Video Diffusion via Routing Sparse Attention, *arXiv 2025* [[📄 Paper](https://arxiv.org/pdf/2505.18809)]  
+- **Sparse VideoGen**: Accelerating with Spatial-Temporal Sparsity, *ICML 2025* [[📄 Paper](https://arxiv.org/pdf/2502.01776)] [[💻 Code](https://github.com/svg-project/Sparse-VideoGen)]  
+- **Sparse VideoGen2**: Semantic-Aware Permutation, *arXiv 2025* [[📄 Paper](https://arxiv.org/pdf/2505.18875)] [[💻 Code](https://github.com/svg-project/Sparse-VideoGen)]  
+
+---
+
+## ⏱ Optimal Timestep
+Optimizing denoising **step schedules** for faster convergence.  
+
+- **Shortest Path in Denoising Diffusion** (*CVPR 2025*) [[📄 Paper](https://arxiv.org/pdf/2503.03265)] [[💻 Code](https://github.com/UnicomAI/ShortDF)]  
+- **BOSS**: Bellman Optimal StepSize, *ICLR 2024* [[📄 Paper](https://arxiv.org/pdf/2312.16414)] [[💻 Code](https://github.com/nguyenngocbaocmt02/BOSS)]  
+- **Optimal Stepsize for Diffusion Sampling** (*arXiv 2025*) [[📄 Paper](https://arxiv.org/pdf/2503.21774v1)] [[💻 Code](https://github.com/bebebe666/OptimalSteps)]  
+
+---
+
+## 🎯 Distillation
+Knowledge distillation for **smaller & faster diffusion models**.  
+
+- **DKDM**: Data-Free Knowledge Distillation for Diffusion Models, *CVPR 2025* [[📄 Paper](https://arxiv.org/pdf/2409.03550)] [[💻 Code](https://github.com/qianlong0502/DKDM)]  
+- **Distilling Diversity and Control in Diffusion Models**, *arXiv 2025* [[📄 Paper](https://arxiv.org/pdf/2503.10637)] [[💻 Code](https://distillation.baulab.info/)]  
+
+---
+
+## 🖼 Image Generation
+Acceleration works focused on **image-level diffusion**.  
+
+- **EEdit**: Efficient Image Editing by Redundancy Reduction, *ICCV 2025* [[📄 Paper](https://arxiv.org/pdf/2503.10270)] [[💻 Code](https://github.com/yuriYanZeXuan/EEdit)]  
+
+---
+
+## 🎬 Video Generation
+Acceleration works tailored for **video diffusion models**.  
+
+- **Impossible Videos**, *arXiv 2025* [[📄 Paper](https://arxiv.org/pdf/2503.14378)] [[💻 Code](https://github.com/showlab/Impossible-Videos)]  
+- **SRDiffusion**: Sketching-Rendering Cooperation, *arXiv 2025* [[📄 Paper](https://arxiv.org/pdf/2505.19151)]  
+
+---
+
+## 📌 Others
+- **Inference-Time Scaling beyond Denoising Steps** (*CVPR 2025*) [[📄 Paper](https://arxiv.org/pdf/2501.09732)]  
+- *(More to come…)*  
+
+---
+
+✨ *This list is continuously updated with the latest works.*  
