@@ -51,6 +51,9 @@ A curated list of awesome papers on **acceleration techniques** for Generative A
 - **EasyCache: Runtime-Adaptive Caching for Video Diffusion**, *arXiv 2025* [[Paper](https://arxiv.org/pdf/2507.02860)] [[Code](https://github.com/H-EmbodVis/EasyCache)]  
 - **Forecast then Calibrate: Caching as ODE for Diffusion Transformers**, *arXiv 2025* [[Paper](https://arxiv.org/pdf/2508.16211)]
 - **SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation**, *arXiv 2025* [[Paper](https://arxiv.org/pdf/2509.13848)]  
+- **Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**,  *arXiv 2025* [[Paper](https://arxiv.org/abs/2506.15682)] [[Code](https://github.com/AniAggarwal/ecad)]
+- **SemCache:Adaptive Semantic-Aware Caching for Efficient Video Diffusion** *arXiv 2025* [[Paper](https://openreview.net/pdf/2e6b729aca381c1d81e8d40fd39db74b8360147c.pdf)] [[Code](https://openreview.net/forum?id=WyfmWX2ncn)]
+
 
 ---
 
