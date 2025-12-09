@@ -79,6 +79,7 @@ A curated list of awesome papers on **acceleration techniques** for Generative A
 
 - **DKDM**: Data-Free Knowledge Distillation for Diffusion Models, *CVPR 2025* [[Paper](https://arxiv.org/pdf/2409.03550)] [[Code](https://github.com/qianlong0502/DKDM)]  
 - **Distilling Diversity and Control in Diffusion Models**, *arXiv 2025* [[Paper](https://arxiv.org/pdf/2503.10637)] [[Code](https://distillation.baulab.info/)]  
+- **Glance: Accelerating Diffusion Models with 1 Sample**, *arXiv 2025* [[Paper](https://arxiv.org/pdf/2512.02899)] [[Code](https://zhuobaidong.github.io/Glance/)]  
 
 ---
 
@@ -98,6 +99,7 @@ A curated list of awesome papers on **acceleration techniques** for Generative A
 ## 📌 Others
 
 - **Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps**, *CVPR 2025* [[Paper](https://arxiv.org/pdf/2501.09732)]  
+- **Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding**, *arXiv 2025* [[Paper](https://arxiv.org/abs/2505.22618)] [[Code](https://github.com/NVlabs/Fast-dLLM)]  
 
 ---
 
