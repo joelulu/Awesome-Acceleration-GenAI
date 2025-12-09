@@ -103,4 +103,11 @@ A curated list of awesome papers on **acceleration techniques** for Generative A
 
 ---
 
+## 📑 Resources
+
+https://github.com/VILA-Lab/Awesome-DLMs
+
+---
+
+
 ✨ *This list is continuously updated with the latest works.*  
